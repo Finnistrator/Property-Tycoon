@@ -1,0 +1,13 @@
+﻿{
+	"position": 2,
+       	"name": "Crapper Street",
+       	"group": "Brown",
+       	"type": "Property",
+       	"cost": 60,
+       	"rent": 2,
+       	"house1": 10,
+       	"house2": 30,
+       	"house3": 90,
+       	"house4": 160,
+       	"hotel": 250
+}

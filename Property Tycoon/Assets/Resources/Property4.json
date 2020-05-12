@@ -1,0 +1,13 @@
+﻿{
+       	"position": 4,
+       	"name": "Gangsters Paradise",
+       	"group": "Brown",
+       	"type": "Property",
+      	"cost": 60,
+       	"rent": 4,
+       	"house1": 20,
+       	"house2": 60,
+      	"house3": 180,
+      	"house4": 320,
+  	"hotel": 450
+}

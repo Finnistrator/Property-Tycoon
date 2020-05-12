@@ -1,0 +1,13 @@
+﻿{
+	"position": 38,
+        "name": "Hawking Way",
+        "group": "Deep blue",
+        "type": "Property",
+        "cost": 350,
+        "rent": 35,
+        "house1": 175,
+        "house2": 500,
+        "house3": 1100,
+        "house4": 1300,
+        "hotel": 1500
+}

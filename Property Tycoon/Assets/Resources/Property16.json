@@ -1,0 +1,8 @@
+﻿{
+     	"position": 16,
+     	"name": "Hove Station",
+    	"group": "Station",
+     	"type": "Station",
+     	"cost": 200,
+  	"rent": "See notes"
+}

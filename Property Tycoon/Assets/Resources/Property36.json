@@ -1,0 +1,8 @@
+﻿{
+	"position": 36,
+       	"name": "Lewes Station",
+        "group": "Station",
+        "type": "Station",
+        "cost": 200,
+        "rent": "See notes"
+}

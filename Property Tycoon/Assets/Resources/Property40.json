@@ -1,0 +1,13 @@
+﻿{
+	"position": 40,
+        "name": "Turing Heights",
+        "group": "Deep blue",
+        "type": "Property",
+        "cost": 400,
+        "rent": 50,
+        "house1": 200,
+        "house2": 600,
+        "house3": 1400,
+        "house4": 1700,
+        "hotel": 2000
+}

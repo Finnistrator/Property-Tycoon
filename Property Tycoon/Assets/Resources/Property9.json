@@ -1,0 +1,13 @@
+﻿{
+   	"position": 9,
+      	"name": "Potts Avenue",
+      	"group": "Blue",
+      	"type": "Property",
+      	"cost": 100,
+      	"rent": 6,
+      	"house1": 30,
+      	"house2": 90,
+       	"house3": 270,
+       	"house4": 400,
+       	"hotel": 550
+}

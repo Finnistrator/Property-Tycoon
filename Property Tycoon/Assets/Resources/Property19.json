@@ -1,0 +1,13 @@
+﻿{
+   	"position": 19,
+        "name": "Wolowitz Street",
+        "group": "Orange",
+        "type": "Property",
+        "cost": 180,
+        "rent": 14,
+        "house1": 70,
+       	"house2": 200,
+        "house3": 550,
+        "house4": 750,
+        "hotel": 950
+}
