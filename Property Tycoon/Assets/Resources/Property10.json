@@ -1,0 +1,13 @@
+﻿{
+     	"position": 10,
+     	"name": "Nardole Drive",
+     	"group": "Blue",
+      	"type": "Property",
+     	"cost": 120,
+     	"rent": 8,
+    	"house1": 40,
+    	"house2": 100,
+     	"house3": 300,
+     	"house4": 450,
+  	"hotel": 600
+}

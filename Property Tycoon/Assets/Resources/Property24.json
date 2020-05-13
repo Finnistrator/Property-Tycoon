@@ -1,0 +1,13 @@
+﻿{
+        "position": 24,
+        "name": "Mulan Rouge",
+        "group": "Red",
+        "type": "Property",
+        "cost": 220,
+        "rent": 18,
+        "house1": 90,
+        "house2": 250,
+        "house3": 700,
+        "house4": 875,
+	"hotel": 1050
+}

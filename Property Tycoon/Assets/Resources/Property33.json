@@ -1,0 +1,13 @@
+﻿{
+	"position": 33,
+        "name": "Ghengis Crescent",
+        "group": "Green",
+        "type": "Property",
+        "cost": 300,
+        "rent": 26,
+        "house1": 130,
+        "house2": 390,
+        "house3": 900,
+        "house4": 1100,
+        "hotel": 1275
+}

@@ -1,0 +1,2 @@
+C:\Users\Finn\Desktop\Unity\Projects\Property Tycoon\obj\Debug\NewAssembly.csprojAssemblyReference.cache
+C:\Users\Finn\Desktop\Unity\Projects\Property Tycoon\obj\Debug\NewAssembly.csproj.CoreCompileInputs.cache

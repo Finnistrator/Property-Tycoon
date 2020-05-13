@@ -1,0 +1,13 @@
+﻿{
+	"position": 28,
+        "name": "Picard Avenue",
+        "group": "Yellow",
+        "type": "Property",
+        "cost": 260,
+        "rent": 22,
+        "house1": 110,
+        "house2": 330,
+        "house3": 800,
+        "house4": 975,
+        "hotel": 1150
+}

@@ -1,0 +1,13 @@
+﻿{
+	"position": 30,
+        "name": "Crusher Creek",
+        "group": "Yellow",
+        "type": "Property",
+        "cost": 280,
+        "rent": 22,
+        "house1": 120,
+        "house2": 360,
+        "house3": 850,
+        "house4": 1025,
+        "hotel": 1200
+}

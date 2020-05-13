@@ -1,0 +1,8 @@
+﻿{
+	"position": 26,
+        "name": "Falmer Station",
+        "group": "Station",
+        "type": "Station",
+        "cost": 200,
+        "rent": "See notes"
+}

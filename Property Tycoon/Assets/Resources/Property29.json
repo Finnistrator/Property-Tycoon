@@ -1,0 +1,8 @@
+﻿{
+	"position": 29,
+        "name": "Edison Water",
+        "group": "Utilities",
+        "type": "Utility",
+        "cost": 150,
+        "rent": "See notes"
+}
